@@ -1,0 +1,41 @@
+{
+  "inboundBandwidthData": {
+    "series": [[232, 111, 138, 144, 118, 210, 236]]
+  },
+  "outboundBandwidthData": {
+    "series": [[3, 14, 37, 26, 48, 8, 63, 21, 24, 52]]
+  },
+  "supportCasesTableData": [
+    {
+      "key": "1",
+      "type": "Usuarios Homebanking",
+      "amount": "120.154"
+    },
+    {
+      "key": "2",
+      "type": "Usuarios Bloqueados",
+      "amount": "1.700"
+    },
+    {
+      "key": "3",
+      "type": "Conectados Actualmente",
+      "amount": "60.800"
+    }
+  ],
+  "supportCasesPieData": {
+    "series": [
+      {
+        "name": "Web App",
+        "value": 65
+      },
+      {
+        "name": "App Android",
+        "value": 25
+      },
+      {
+        "name": "App Apple",
+        "value": 10
+      }
+    ]
+  }
+}
